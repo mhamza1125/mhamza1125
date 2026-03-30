@@ -2,6 +2,12 @@
 
 ### 🚀 Full-Stack Laravel Developer
 
+![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
+![PHP](https://img.shields.io/badge/PHP-Advanced-blue)
+![API](https://img.shields.io/badge/API-Expert-orange)
+![Testing](https://img.shields.io/badge/Testing-Cypress%20%26%20Dusk-yellow)
+![Available](https://img.shields.io/badge/Status-Open%20for%20Remote-green)
+
 Building scalable SaaS platforms, ERP systems, and high-performance web applications.
 
 ---
