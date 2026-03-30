@@ -1,5 +1,8 @@
 # Hi, I'm Muhammad Hamza 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mhamza1125/) 
+[![Email](https://img.shields.io/badge/Email-mhamza1125@gmail.com-red?logo=gmail&logoColor=white)](mailto:mhamza1125@gmail.com)
+
 ### 🚀 Full-Stack Laravel Developer
 
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
@@ -55,6 +58,36 @@ I focus on clean architecture, modular development, and building systems that sc
 - Apache  
 - VPS Deployment  
 - Postman  
+
+---
+
+## 🏆 Key Highlights
+- Delivered **10+ production-ready Laravel applications**  
+- Reduced bugs by **35% with automated testing**  
+- Built **modular ERP systems** with scalable architecture  
+- Optimized databases improving performance by **35–40%**  
+- Experience working with **remote European teams**  
+
+---
+
+## 🌍 Remote Work Experience
+- Worked with distributed teams across time zones  
+- Agile workflows (sprints, standups, code reviews)  
+- Git-based collaboration (PRs, branching strategies)  
+- CI/CD-ready development practices  
+
+---
+
+## 📫 How to Reach Me
+- 📧 Email: mhamza1125@gmail.com  
+- 📞 Phone: +92 331 4657496  
+- 💼 LinkedIn: https://www.linkedin.com/in/mhamza1125/  
+- 📍 Location: Sialkot, Pakistan  
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning complex business requirements into clean, scalable systems.
 
 ---
 
